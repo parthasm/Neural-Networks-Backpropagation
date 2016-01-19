@@ -8,7 +8,7 @@ The processing consists of removing rows with missing values and the row ids in 
 For details on the dataset, see the names file in this repository.
 
 This neural network classifies a tumor as malignant or benign. 
-The classifier is trained on the dataset and the accuracy is reported on the training set.
+The classifier is trained on the dataset and the accuracy and the time taken are reported for the training set.
 
 ##Citation for Dataset:
 1. O. L. Mangasarian and W. H. Wolberg: "Cancer diagnosis via linear programming", SIAM News, Volume 23, Number 5, September 1990, pp 1 & 18. 
