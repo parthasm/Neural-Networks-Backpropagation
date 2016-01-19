@@ -1,7 +1,7 @@
 # Neural-Networks-Backpropagation
 
 This neural networks implementation is coded in Python using the numpy package. 
-The back propagation and feedforwards algorithms have been implemented.
+The back propagation and feedforward algorithms have been implemented as a part of this classifier.
 It uses a single hidden layer. It runs on the processed Wisconsin Breast Cancer Dataset.
 The processing consists of removing rows with missing values and the row ids in the beginning of the rows.
 
